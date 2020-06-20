@@ -1,0 +1,17 @@
+{
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "dependencies": {
+    "cypress": "4.8"
+  },
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run",
+    "cypress:run-head": "./node_modules/.bin/cypress run --headed",
+    "cypress:run-with-tags": "./node_modules/.bin/cypress-tags run -e TAGS='@web'"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^1.12.0"
+  }
+}

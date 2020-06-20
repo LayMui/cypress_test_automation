@@ -1,0 +1,8 @@
+{
+  "projectId": "qqcfge",
+  "ignoreTestFiles": "*.js",
+  "responseTimeout": 50000,
+  "viewportWidth": 1200,
+  "viewportHeight": 1300,
+  "chromeWebSecurity": false
+}
