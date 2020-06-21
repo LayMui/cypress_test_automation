@@ -1,4 +1,3 @@
-# todo smoke test
 
 ## download instructions
 
